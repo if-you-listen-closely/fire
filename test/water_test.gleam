@@ -7,7 +7,7 @@ import gleam/list
 import gleam/result
 import simplifile
 
-import fire/util
+import water/util
 
 pub fn main() {
   gleeunit.main()

@@ -4,7 +4,7 @@ import argv
 import gleam/list
 import simplifile
 
-import fire/util
+import water/util
 
 /// 
 pub fn main() {

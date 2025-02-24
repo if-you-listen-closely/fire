@@ -1,5 +1,5 @@
 *.beam
 *.ez
 /build
-fire
+water
 erl_crash.dump
