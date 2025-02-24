@@ -6,7 +6,6 @@ import simplifile
 
 import water/util
 
-/// 
 pub fn main() {
   argv.load().arguments
   |> list.filter_map(fn(x) { simplifile.read(from: x) })
